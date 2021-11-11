@@ -1,0 +1,70 @@
+body{
+  background-color: #efefef;
+  overflow-x: hidden;
+  
+}
+nav{
+  background-color: #062F4F;
+  color: white;
+}
+#footer{
+  background-color: #062F4F;
+  color: white;
+  padding: 1rem;
+}
+#slider{
+  margin-top: 4rem;
+  padding-left: 1rem;
+}
+.slider-pic{
+  height: 20rem;
+}
+/*Text Styles*/
+.word1{
+  color: black;
+}
+.word2{
+  color: white;
+}
+.word3{
+  color: black;
+}
+.header-text{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+/*Sample Projects Section*/
+#projects{
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #565656;
+  font-weight: bold;
+}
+#projects a{
+  
+  color: white;
+  font-weight: bold;
+}
+/*Certificates Section*/
+#certificates{
+  padding: 1rem;
+  background-color: #262228;
+}
+.card-link{
+  color: blue;
+  text-decoration: none;
+}
+/*Contacts Section*/
+.contacts{
+  padding: 1rem;
+}
+.contacts a{
+  margin-left: 0.5rem;
+  text-decoration: none;
+  color: white;
+}
+.contact-text{
+  margin-left: 1rem;
+}
